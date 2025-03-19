@@ -1,2 +1,1 @@
-cs61a python weeks
-using mixed materials from 20fall and 24spring
+Used mixed materials from 20fall and 24spring
